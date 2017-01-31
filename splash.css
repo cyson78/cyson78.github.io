@@ -1,0 +1,17 @@
+body {
+	background-color:#ffcaf7;
+	font-family:Arial;
+	border: 5px solid #11d5db
+}
+
+div{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+#marquee {
+	border-style: dotted;
+}
