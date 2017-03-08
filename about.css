@@ -1,4 +1,5 @@
 body {
   background-image: url(mexicopuertovallarta.jpg);
-  background-repeat: repeat-x;
+  max-width: 100%;
+  height: auto;
 }
