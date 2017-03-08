@@ -1,5 +1,7 @@
 body {
   	background-image: url(resume.jpg);
+	max-height: 100%;
+	max-width: 100%;
 	font-family:serif;
 }
 
