@@ -1,5 +1,5 @@
 body {
-	background-image: pineapple.jpg;
+	background-image: url (pineapple.jpg);
 	background-repeat: repeat-y;
 	background-repeat: repeat-x;
 	font-family:Arial;
