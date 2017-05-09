@@ -1,0 +1,33 @@
+#header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+    display: block;
+    color: white;
+    text-align:center;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:grey;
+	background-repeat: none;
+}
+
+h2{
+	color: #0a060a;
+}
+
+#resume{
+	text-align:left;
+}
+
+/*li {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
