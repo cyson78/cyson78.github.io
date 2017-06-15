@@ -1,0 +1,18 @@
+h3 {
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    text-align:center;
+}
+
+body{
+	position: right;
+}
+
+p.footnote {
+	border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+}
